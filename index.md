@@ -13,7 +13,7 @@ where I wrote my thesis under supervision of Jan Philip Solovej.
 I am interested in the mathematics of many-body quantum systems. 
 More specifically, in my Ph.D. project I study the ground state energy of a dilute spin-polarized Fermi gas.
 
-## Brief CV:
+## Brief CV
 
 2020 - present: Ph.D., [IST Austria](https://ist.ac.at/en/home/)   
 2018 - 2020: M.Sc. in mathematics, [University of Copenhagen](https://www.math.ku.dk/english/)   

@@ -61,6 +61,12 @@
           <i class="ai ai-cv" style="font-size:1.3rem;"></i>
         </a>
         {% endif %}
+          
+        {% if site.orcid %}
+        <a style="margin: 0 5px 0 0" href="{{ site.orcid }}">
+          <i class="ai ai-orcid" style="font-size:1.3rem;"></i>
+        </a>
+        {% endif %}
 
         {% if site.github_link %}
         <a style="margin: 0 5px 0 0" href="{{ site.github_link }}">
@@ -75,15 +81,9 @@
         {% endif %}
 
         {% if site.twitter %}
-        <a style="margin: 0 5px 0 0" href="{{ site.twitter }}">
+        <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
           <i class="fab fa-twitter"></i>
         </a>
-          
-        {% if site.orcid %}
-        <a style="margin: 0 0 0 0" href="{{ site.orcid }}">
-          <i class="ai ai-orcid" style="font-size:1.2rem"></i>
-        </a>
-        {% endif %}
         </div>
         <br>
 

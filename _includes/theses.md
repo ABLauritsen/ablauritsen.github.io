@@ -1,4 +1,4 @@
-### Theses
+## Theses
 
 [*A mathematical formulation of the Bardeen-Cooper-Schrieffer theory of superconductivity*](/assets/files/masters-thesis.pdf) <br> 
 MSc thesis in mathematics, University of Copenhagen (2020) <br> 

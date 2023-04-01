@@ -1,32 +1,23 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+Almost optimal upper bound for the ground state energy of a dilute Fermi gas via cluster expansion    
+A. B. Lauritsen    
+[arXiv:2301.08005](https://doi.org/10.48550/arXiv.2301.08005) (2023)
 
-<div class="publications">
-<ol class="bibliography">
+Universality in low-dimensional BCS theory     
+J. Henheik, A. B. Lauritsen, and B. Roos    
+[arXiv:2301.05621](https://doi.org/10.48550/arXiv.2301.05621) (2023)
 
-<li>
-<div class="pub-row">
+Ground state energy of the dilute spin-polarized Fermi gas: Upper bound via cluster expansion    
+A. B. Lauritsen and R. Seiringer    
+[arXiv:2301.04894](https://doi.org/10.48550/arXiv.2301.04894) (2023)
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">CVPR</abbr>
-  </div>
+The BCS Energy Gap at High Density     
+J. Henheik and A. B. Lauritsen    
+[J. Stat. Phys. 189, 5](https://doi.org/10.1007/s10955-022-02965-9) (2022)
 
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">Mnemonics Training: Multi-Class Incremental Learning without Forgetting</a></div>
-    <div class="author"><strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun</div>
-    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.</em></div>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
-    </div>
-  </div>
-</div>
-</li>
-  
-<br>
+Floating Wigner crystal and periodic jellium configurations    
+A. B. Lauritsen    
+[J. Math. Phys. 62, 083305](https://doi.org/10.1063/5.0053494) (2021)
 
-</ol>
-</div>
+The BCS energy gap at low density    
+A. B. Lauritsen    
+[Lett. Math. Phys. 111.20](https://doi.org/10.1007/s11005-021-01358-5) (2021)

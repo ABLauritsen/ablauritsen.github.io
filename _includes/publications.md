@@ -1,4 +1,4 @@
-### Publications
+## Publications
 
 *Almost optimal upper bound for the ground state energy of a dilute Fermi gas via cluster expansion*    
 A. B. Lauritsen    

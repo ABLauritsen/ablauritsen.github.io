@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in mathematical physics at [IST Austria](https://ist.ac.at/en/home/) in the group of [Robert Seirinnger](https://ist.ac.at/en/research/seiringer-group/).
+I am a Ph.D. student in mathematical physics at [IST Austria](https://ist.ac.at/en/home/) in the group of [Robert Seiringer](https://ist.ac.at/en/research/seiringer-group/).
 
 ## Research Interests
 

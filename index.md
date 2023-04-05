@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I am a Ph.D. student in mathematical physics at [IST Austria](https://ist.ac.at/en/home/) in the group of [Robert Seiringer](https://ist.ac.at/en/research/seiringer-group/).
-Before this I did my master's degree at the [University of Copenhagen](https://www.math.ku.dk/english/), 
+Prior to this I did my master's degree at the [University of Copenhagen](https://www.math.ku.dk/english/), 
 where I wrote my thesis under supervision of Jan Philip Solovej.
 
 ## Research Interests

@@ -1,7 +1,10 @@
 ## Publications
 
+*Pressure of a dilute spin-polarized Fermi gas: Lower bound*   
+A. B. Lauritsen and R. Seiringer, [arXiv:2307.01113](https://doi.org/10.48550/arXiv.2307.01113) (2023)
+
 *A stochastic cellular automaton model of culture formation*  
-F. R. Klausen, A. B. Lauritsen, [arXiv:2305.02153](https://doi.org/10.48550/arXiv.2305.02153) (2023)
+F. R. Klausen and A. B. Lauritsen, [arXiv:2305.02153](https://doi.org/10.48550/arXiv.2305.02153) (2023)
 
 *Almost optimal upper bound for the ground state energy of a dilute Fermi gas via cluster expansion*    
 A. B. Lauritsen, [arXiv:2301.08005](https://doi.org/10.48550/arXiv.2301.08005) (2023)

@@ -13,7 +13,7 @@ A. B. Lauritsen and R. Seiringer, [arXiv:2301.04894](https://doi.org/10.48550/ar
 ### BCS theory  
 
  - *Universality in low-dimensional BCS theory*     
-J. Henheik, A. B. Lauritsen, and B. Roos, [arXiv:2301.05621](https://doi.org/10.48550/arXiv.2301.05621) (2023)  
+J. Henheik, A. B. Lauritsen, and B. Roos, [Rev. Math. Phys. p. 2360005](https://doi.org/10.1142/S0129055X2360005X) (2023)   
  - *The BCS Energy Gap at High Density*     
 J. Henheik and A. B. Lauritsen, [J. Stat. Phys. 189, 5](https://doi.org/10.1007/s10955-022-02965-9) (2022)  
  - *The BCS energy gap at low density*    
@@ -21,8 +21,8 @@ A. B. Lauritsen, [Lett. Math. Phys. 111.20](https://doi.org/10.1007/s11005-021-0
 
 ### Culture formation
 
- - *A stochastic cellular automaton model of culture formation*  
-F. R. Klausen and A. B. Lauritsen, [arXiv:2305.02153](https://doi.org/10.48550/arXiv.2305.02153) (2023)   
+ - *Stochastic cellular automaton model of culture formation*  
+F. R. Klausen and A. B. Lauritsen, [Phys. Rev. E 108.5](https://doi.org/10.1103/PhysRevE.108.054307) (2023)   
 (Supplementary material: [Code on GitHub](https://github.com/FrederikRavnKlausen/model-for-culture-formation) and [Research data](https://doi.org/10.15479/AT:ISTA:12869))
 
 ### Jellium and the Uniform Electron Gas

@@ -12,6 +12,8 @@ A. B. Lauritsen and R. Seiringer, [arXiv:2301.04894](https://doi.org/10.48550/ar
 
 ### BCS theory  
 
+ - *Universal behavior of the BCS energy gap*    
+J. Henheik and A. B. Lauritsen, [arXiv:2312.11310](https://doi.org/10.48550/arXiv.2312.11310) (2023)   
  - *Universality in low-dimensional BCS theory*     
 J. Henheik, A. B. Lauritsen, and B. Roos, [Rev. Math. Phys. p. 2360005](https://doi.org/10.1142/S0129055X2360005X) (2023)   
  - *The BCS Energy Gap at High Density*     

@@ -2,12 +2,13 @@
 
 ### Dilute Fermi gases 
 
+
  - *Pressure of a dilute spin-polarized Fermi gas: Lower bound*   
 A. B. Lauritsen and R. Seiringer, [arXiv:2307.01113](https://doi.org/10.48550/arXiv.2307.01113) (2023)    
  - *Almost optimal upper bound for the ground state energy of a dilute Fermi gas via cluster expansion*    
 A. B. Lauritsen, [arXiv:2301.08005](https://doi.org/10.48550/arXiv.2301.08005) (2023)   
  - *Ground state energy of the dilute spin-polarized Fermi gas: Upper bound via cluster expansion*    
-A. B. Lauritsen and R. Seiringer, [arXiv:2301.04894](https://doi.org/10.48550/arXiv.2301.04894) (2023)  
+A. B. Lauritsen and R. Seiringer, [J Funct Anal. 286 (7) p. 110320](https://doi.org/10.1016/j.jfa.2024.110320) (2024)    
  - (Supplementary material: [Code on GitHub](https://github.com/ABLauritsen/GGR-Diagrams) for calculating values of GGR-diagrams)
 
 ### BCS theory  

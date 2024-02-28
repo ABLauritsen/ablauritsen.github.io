@@ -3,6 +3,8 @@
 ### Dilute Fermi gases 
 
 
+ - *Ground state energy of the dilute spin-polarized Fermi gas: Lower bound*    
+A. B. Lauritsen and R. Seiringer, [arXiv:2402.17558](https://doi.org/10.48550/arXiv.2402.17558) (2024)   
  - *Pressure of a dilute spin-polarized Fermi gas: Lower bound*   
 A. B. Lauritsen and R. Seiringer, [arXiv:2307.01113](https://doi.org/10.48550/arXiv.2307.01113) (2023)    
  - *Almost optimal upper bound for the ground state energy of a dilute Fermi gas via cluster expansion*    

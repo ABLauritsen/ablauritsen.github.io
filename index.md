@@ -4,20 +4,21 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in mathematical physics at [IST Austria](https://ist.ac.at/en/home/) in the group of [Robert Seiringer](https://ist.ac.at/en/research/seiringer-group/).
-Prior to this I did my master's degree at the [University of Copenhagen](https://www.math.ku.dk/english/), 
-where I wrote my thesis under supervision of Jan Philip Solovej.
+Since November 2024, I am a postdoctoral researcher at Université Paris Dauphine in the group of Mathieu Lewin. 
+Prior to this, I did my Ph.D. at IST Austria with Robert Seiringer and 
+my M.Sc. at the University of Copenhagen with Jan Philip Solovej.
 
-## Research Interests
 
-I am interested in the mathematics of many-body quantum systems. 
-More specifically, in my Ph.D. project I study the ground state energy of a dilute spin-polarized Fermi gas.
+My research interests are within the mathematics of many-body quantum systems
+and effective theories thereof.
+
 
 ## Brief CV
 
-2020 - present: Ph.D., [IST Austria](https://ist.ac.at/en/home/)   
-2018 - 2020: M.Sc. in mathematics, [University of Copenhagen](https://www.math.ku.dk/english/)   
-2015 - 2018: B.Sc. in mathematics, [University of Copenhagen](https://www.math.ku.dk/english/)
+Since 2024: Postdoctoral researcher, [Université Paris Dauphine](https://www.ceremade.dauphine.fr/)   
+2024: Ph.D., [IST Austria](https://ist.ac.at/en/home/)   
+2020: M.Sc. in mathematics, [University of Copenhagen](https://www.math.ku.dk/english/)   
+2018: B.Sc. in mathematics, [University of Copenhagen](https://www.math.ku.dk/english/)
 
 {% include_relative _includes/publications.md %}
 

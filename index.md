@@ -20,6 +20,8 @@ Since 2024: Postdoctoral researcher, [Université Paris Dauphine](https://www.da
 2020: M.Sc. in mathematics, [University of Copenhagen](https://www.math.ku.dk/english/)   
 2018: B.Sc. in mathematics, [University of Copenhagen](https://www.math.ku.dk/english/)
 
+[Detailed CV](/assets/files/Lauritsen-CV.pdf)
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/theses.md %}

@@ -15,8 +15,8 @@ and effective theories thereof.
 
 ## Brief CV
 
-Since 2024: Postdoctoral researcher, [Université Paris Dauphine](https://www.ceremade.dauphine.fr/)
-2024: Ph.D., [IST Austria](https://ist.ac.at/en/home/)   
+Since 2024: Postdoctoral researcher, [Université Paris Dauphine](https://www.ceremade.dauphine.fr/)    
+2024: Ph.D., [IST Austria](https://ist.ac.at/en/home/)    
 2020: M.Sc. in mathematics, [University of Copenhagen](https://www.math.ku.dk/english/)   
 2018: B.Sc. in mathematics, [University of Copenhagen](https://www.math.ku.dk/english/)
 

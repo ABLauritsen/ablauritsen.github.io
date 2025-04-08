@@ -18,8 +18,8 @@ A. B. Lauritsen and R. Seiringer, [J Funct Anal. 286 (7) p. 110320](https://doi.
 
  - *Multi-band superconductors have enhanced critical temperatures*    
 J. Henheik, E. Langmann, and A. B. Lauritsen, [arXiv:2409.17297](https://doi.org/10.48550/arXiv.2409.17297) (2024)    
- - *Universal behavior of the BCS energy gap*    
-J. Henheik and A. B. Lauritsen, [J. Spectr. Theory](https://doi.org/10.4171/jst/540) (2025)   
+ - *Universal behavior of the BCS energy gap*     
+J. Henheik and A. B. Lauritsen, [J. Spectr. Theory 15.1, pp. 305–352](https://doi.org/10.4171/jst/540) (2025)   
  - *Universality in low-dimensional BCS theory*     
 J. Henheik, A. B. Lauritsen, and B. Roos, [Rev. Math. Phys. 36, 9, p. 2360005](https://doi.org/10.1142/S0129055X2360005X) (2024)   
  - *The BCS Energy Gap at High Density*     

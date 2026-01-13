@@ -1,5 +1,11 @@
 ## Publications  
 
+### Density Functional Theory   
+ - *Geometric Time-Dependent Density Functional Theory*   
+É. Cancès, T. Duez, J. van Gog, A. B. Lauritsen, M. Lewin, and J.  Toulouse, [arXiv:2601.07724](https://doi.org/10.48550/arXiv.2601.07724) (2026)
+ - *Geometric theory of constrained Schrödinger dynamics with application to time-dependent density-functional theory on a finite lattice*    
+É. Cancès, T. Duez, J. van Gog, A. B. Lauritsen, M. Lewin, and J.  Toulouse, [arXiv:2601.07719](https://doi.org/10.48550/arXiv.2601.07719) (2026)    
+
 ### Dilute Fermi gases 
 
  - *Pressure of a dilute spin-polarized Fermi gas: Upper bound*   

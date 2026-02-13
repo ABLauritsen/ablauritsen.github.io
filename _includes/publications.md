@@ -8,6 +8,8 @@
 
 ### Dilute Fermi gases 
 
+ - *Momentum Distribution of the Dilute Fermi Gas*     
+N. Benedikter, E. L. Giacomelli, A. B. Lauritsen, and S. Lill, [arXiv:2602.12067](https://arxiv.org/abs/2602.12067) (2026)     
  - *Pressure of a dilute spin-polarized Fermi gas: Upper bound*   
 A. B. Lauritsen and R. Seiringer, [arXiv:2407.05990](https://doi.org/10.48550/arXiv.2407.05990) (2024)     
  - *Ground state energy of the dilute spin-polarized Fermi gas: Lower bound*    
@@ -33,13 +35,10 @@ J. Henheik and A. B. Lauritsen, [J. Stat. Phys. 189, 5](https://doi.org/10.1007/
  - *The BCS energy gap at low density*    
 A. B. Lauritsen, [Lett. Math. Phys. 111.20](https://doi.org/10.1007/s11005-021-01358-5) (2021)
 
-### Culture formation
+### Miscellaneous
 
- - *Stochastic cellular automaton model of culture formation*  
+ - *Stochastic cellular automaton model of culture formation*   
 F. R. Klausen and A. B. Lauritsen, [Phys. Rev. E 108.5](https://doi.org/10.1103/PhysRevE.108.054307) (2023)   
-(Supplementary material: [Code on GitHub](https://github.com/FrederikRavnKlausen/model-for-culture-formation) and [Research data](https://doi.org/10.15479/AT:ISTA:12869))
-
-### Jellium and the Uniform Electron Gas
-
+(Supplementary material: [Code on GitHub](https://github.com/FrederikRavnKlausen/model-for-culture-formation) and [Research data](https://doi.org/10.15479/AT:ISTA:12869))    
  - *Floating Wigner crystal and periodic jellium configurations*    
-A. B. Lauritsen, [J. Math. Phys. 62, 083305](https://doi.org/10.1063/5.0053494) (2021)
+A. B. Lauritsen, [J. Math. Phys. 62, 083305](https://doi.org/10.1063/5.0053494) (2021)    

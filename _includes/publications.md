@@ -41,4 +41,9 @@ A. B. Lauritsen, [Lett. Math. Phys. 111.20](https://doi.org/10.1007/s11005-021-0
 F. R. Klausen and A. B. Lauritsen, [Phys. Rev. E 108.5](https://doi.org/10.1103/PhysRevE.108.054307) (2023)   
 (Supplementary material: [Code on GitHub](https://github.com/FrederikRavnKlausen/model-for-culture-formation) and [Research data](https://doi.org/10.15479/AT:ISTA:12869))    
  - *Floating Wigner crystal and periodic jellium configurations*    
-A. B. Lauritsen, [J. Math. Phys. 62, 083305](https://doi.org/10.1063/5.0053494) (2021)    
+A. B. Lauritsen, [J. Math. Phys. 62, 083305](https://doi.org/10.1063/5.0053494) (2021)
+
+### Proceedings/Reports
+
+ - *Thomas--Fermi theory and the limit of a large atom*     
+A. B. Lauritsen, in [Arbeitsgemeinschaft: Analysis of Many-Body Quantum Systems, Oberwolfach Rep. 22, no. 4, pp. 2529-2533](https://doi.org/10.4171/owr/2025/46) (2025)

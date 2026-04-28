@@ -33,4 +33,10 @@ Since 2024: Postdoctoral researcher, [Université Paris-Dauphine](https://www.ce
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/teaching.md %}
+
+{% include_relative _includes/talks.md %}
+
 {% include_relative _includes/theses.md %}
+
+

@@ -2,9 +2,9 @@
 
 ### Density Functional Theory   
  - *Geometric Time-Dependent Density Functional Theory*   
-É. Cancès, T. Duez, J. van Gog, A. B. Lauritsen, M. Lewin, and J.  Toulouse, [arXiv:2601.07724](https://doi.org/10.48550/arXiv.2601.07724) (2026)
+É. Cancès, T. Duez, J. van Gog, A. B. Lauritsen, M. Lewin, and J.  Toulouse, [Phys. Rev. Lett. 136, 256401](https://doi.org/10.1103/xtjx-r2lm) (2026)    
  - *Geometric theory of constrained Schrödinger dynamics with application to time-dependent density-functional theory on a finite lattice*    
-É. Cancès, T. Duez, J. van Gog, A. B. Lauritsen, M. Lewin, and J.  Toulouse, [arXiv:2601.07719](https://doi.org/10.48550/arXiv.2601.07719) (2026)    
+É. Cancès, T. Duez, J. van Gog, A. B. Lauritsen, M. Lewin, and J.  Toulouse, [Phys. Rev. A 113, 062222](https://doi.org/10.1103/w2bz-p8df) (2026)    
 
 ### Dilute Fermi gases 
 

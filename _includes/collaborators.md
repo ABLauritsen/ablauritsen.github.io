@@ -1,1 +1,15 @@
+## Collaborators
 
+[Niels Benedikter](https://nielsbenedikter.de/), 
+[Éric Cancès](https://cermics.enpc.fr/~cances/), 
+[Théo Duez](https://scholar.google.com/citations?user=xYpn_34AAAAJ&hl=en), 
+[Emanuela L. Giacomelli](https://sites.google.com/view/emanuelagiacomelli/home), 
+Jari van Gog, 
+[Joscha Henheik](https://sites.google.com/view/joscha-henheik), 
+[Frederik Ravn Klausen](https://frederikravnklausen.github.io/), 
+[Edwin Langmann](https://www.kth.se/profile/langmann), 
+[Mathieu Lewin](https://www.ceremade.dauphine.fr/~lewin/), 
+[Sascha Lill](https://sites.google.com/view/saschalill), 
+[Barbara Roos](https://gssi.it/people/professors/lectures-physics/item/25915-roos-barbara), 
+[Robert Seiringer](https://ist.ac.at/en/research/seiringer-group/), 
+[Julien Toulouse](https://www.lct.jussieu.fr/pagesperso/toulouse/), 

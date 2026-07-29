@@ -4,7 +4,7 @@
 [Éric Cancès](https://cermics.enpc.fr/~cances/), 
 [Théo Duez](https://scholar.google.com/citations?user=xYpn_34AAAAJ&hl=en), 
 [Emanuela L. Giacomelli](https://sites.google.com/view/emanuelagiacomelli/home), 
-Jari van Gog, 
+[Jari van Gog](https://orcid.org/0000-0002-7976-6978), 
 [Joscha Henheik](https://sites.google.com/view/joscha-henheik), 
 [Frederik Ravn Klausen](https://frederikravnklausen.github.io/), 
 [Edwin Langmann](https://www.kth.se/profile/langmann), 

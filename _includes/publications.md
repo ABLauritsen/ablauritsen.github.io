@@ -2,7 +2,8 @@
 
 ### Density Functional Theory   
  - *Geometric Time-Dependent Density Functional Theory*   
-É. Cancès, T. Duez, J. van Gog, A. B. Lauritsen, M. Lewin, and J.  Toulouse, [Phys. Rev. Lett. 136, 256401](https://doi.org/10.1103/xtjx-r2lm) (2026)    
+É. Cancès, T. Duez, J. van Gog, A. B. Lauritsen, M. Lewin, and J.  Toulouse, [Phys. Rev. Lett. 136, 256401](https://doi.org/10.1103/xtjx-r2lm) (2026)      
+Highlighted in [Physics Magazine](https://physics.aps.org/articles/v19/s84) and [CNRS Le Journal](https://lejournal.cnrs.fr/articles/un-modele-imaginaire-pour-resoudre-lequation-de-schrodinger) (In French)   
  - *Geometric theory of constrained Schrödinger dynamics with application to time-dependent density-functional theory on a finite lattice*    
 É. Cancès, T. Duez, J. van Gog, A. B. Lauritsen, M. Lewin, and J.  Toulouse, [Phys. Rev. A 113, 062222](https://doi.org/10.1103/w2bz-p8df) (2026)    
 

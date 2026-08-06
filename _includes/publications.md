@@ -9,7 +9,7 @@ Highlighted in [Physics Magazine](https://physics.aps.org/articles/v19/s84) and 
 
 ### Dilute Fermi gases 
 
- - *Momentum Distribution of the Dilute Fermi Gas*     
+ - *Mesoscopic Observables of the Dilute Fermi Gas at Low Energy*     
 N. Benedikter, E. L. Giacomelli, A. B. Lauritsen, and S. Lill, [arXiv:2602.12067](https://arxiv.org/abs/2602.12067) (2026)     
  - *Pressure of a dilute spin-polarized Fermi gas: Upper bound*   
 A. B. Lauritsen and R. Seiringer, [arXiv:2407.05990](https://doi.org/10.48550/arXiv.2407.05990) (2024)     

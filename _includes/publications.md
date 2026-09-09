@@ -1,11 +1,14 @@
-## Publications  
-
+## Publications 
 ### Density Functional Theory   
+ - *The inverse problem of time-dependent density functional theory on the torus*    
+A. B. Lauritsen, M. Lewin, and J. Oldenburg, [arXiv:2609.08984](https://doi.org/10.48550/arXiv.2609.08984) (2026)
+ - *Time-Dependent Density Functional Theory with Coulomb Interactions*    
+A. B. Lauritsen, M. Lewin, and J. Oldenburg, [arXiv:2609.08983](https://doi.org/10.48550/arXiv.2609.08983) (2026)    
  - *Geometric Time-Dependent Density Functional Theory*   
-É. Cancès, T. Duez, J. van Gog, A. B. Lauritsen, M. Lewin, and J.  Toulouse, [Phys. Rev. Lett. 136, 256401](https://doi.org/10.1103/xtjx-r2lm) (2026)      
-Highlighted in [Physics Magazine](https://physics.aps.org/articles/v19/s84) and [CNRS Le Journal](https://lejournal.cnrs.fr/articles/un-modele-imaginaire-pour-resoudre-lequation-de-schrodinger) (In French)   
+É. Cancès, T. Duez, J. van Gog, A. B. Lauritsen, M. Lewin, and J. Toulouse, [Phys. Rev. Lett. 136, 256401](https://doi.org/10.1103/xtjx-r2lm) (2026)      
+Featured in [Physics Magazine](https://physics.aps.org/articles/v19/s84) and [CNRS Le Journal](https://lejournal.cnrs.fr/articles/un-modele-imaginaire-pour-resoudre-lequation-de-schrodinger) (in French)   
  - *Geometric theory of constrained Schrödinger dynamics with application to time-dependent density-functional theory on a finite lattice*    
-É. Cancès, T. Duez, J. van Gog, A. B. Lauritsen, M. Lewin, and J.  Toulouse, [Phys. Rev. A 113, 062222](https://doi.org/10.1103/w2bz-p8df) (2026)    
+É. Cancès, T. Duez, J. van Gog, A. B. Lauritsen, M. Lewin, and J. Toulouse, [Phys. Rev. A 113, 062222](https://doi.org/10.1103/w2bz-p8df) (2026)    
 
 ### Dilute Fermi gases 
 

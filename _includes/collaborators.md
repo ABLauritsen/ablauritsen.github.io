@@ -10,6 +10,7 @@
 [Edwin Langmann](https://www.kth.se/profile/langmann), 
 [Mathieu Lewin](https://www.ceremade.dauphine.fr/~lewin/), 
 [Sascha Lill](https://sites.google.com/view/saschalill), 
+[Jakob Oldenburg](https://scholar.google.com/citations?user=EezLdFsAAAAJ&hl=en&oi=ao), 
 [Barbara Roos](https://gssi.it/people/professors/lectures-physics/item/25915-roos-barbara), 
 [Robert Seiringer](https://ist.ac.at/en/research/seiringer-group/), 
 [Julien Toulouse](https://www.lct.jussieu.fr/pagesperso/toulouse/), 

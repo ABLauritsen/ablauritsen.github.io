@@ -1,7 +1,9 @@
 ## Publications 
 ### Density Functional Theory   
+ - *Variational and geometric time-dependent density-functional theory of electronic systems*    
+É. Cancès, T. Duez, J. van Gog, A. B. Lauritsen, M. Lewin, J. Oldenburg, and J. Toulouse. [arXiv:2611.21431](https://doi.org/10.48550/arXiv.2611.21431) (2026)   
  - *The inverse problem of time-dependent density functional theory on the torus*    
-A. B. Lauritsen, M. Lewin, and J. Oldenburg, [arXiv:2609.08984](https://doi.org/10.48550/arXiv.2609.08984) (2026)
+A. B. Lauritsen, M. Lewin, and J. Oldenburg, [arXiv:2609.08984](https://doi.org/10.48550/arXiv.2609.08984) (2026)   
  - *Time-Dependent Density Functional Theory with Coulomb Interactions*    
 A. B. Lauritsen, M. Lewin, and J. Oldenburg, [arXiv:2609.08983](https://doi.org/10.48550/arXiv.2609.08983) (2026)    
  - *Geometric Time-Dependent Density Functional Theory*   

@@ -1,5 +1,7 @@
 ## Publications 
 ### Density Functional Theory   
+ - *Sobolev theory for the inverse problem of time-dependent density functional theory on the torus*    
+A. B. Lauritsen, M. Lewin, and J. Oldenburg, [arXiv:2611.22942](https://doi.org/10.48550/arXiv.2611.22942) (2026)   
  - *Variational and geometric time-dependent density-functional theory of electronic systems*    
 É. Cancès, T. Duez, J. van Gog, A. B. Lauritsen, M. Lewin, J. Oldenburg, and J. Toulouse. [arXiv:2611.21431](https://doi.org/10.48550/arXiv.2611.21431) (2026)   
  - *The inverse problem of time-dependent density functional theory on the torus*    
